@@ -1,0 +1,8 @@
+export {default as LoginPage} from './auth/LoginPage.jsx'
+export {DashboardPage} from './Dashboard/DashboardPage.jsx'
+export {FeriadosPage} from './feriados/FeriadosPage.jsx'
+export {FilialesPage} from './filiales/FilialesPage.jsx'
+export {PuestosPage} from './puestos/PuestosPage.jsx'
+export {UsuariosPage} from './usuarios/UsuariosPage.jsx'
+export {Solicitudes} from './Vacaciones/Solicitudes.jsx'
+export {VerVacaciones} from './Vacaciones/VerVacaciones.jsx'
