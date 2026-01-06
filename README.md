@@ -1,16 +1,79 @@
-# React + Vite
+# 🌴 Sistema de Cálculo de Vacaciones – Frontend  
+React · Vite · JavaScript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es la **parte frontend del Sistema de Cálculo de Vacaciones**, desarrollado con **React y Vite**, que permite al usuario visualizar sus días de vacaciones disponibles, solicitar días y ver el historial de solicitudes consumiendo la API del backend.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+## ⚙️ Instalación
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 1. Clona el repositorio
+```bash
+git clone https://github.com/EVELIO0318/vacaciones-fronted.git
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 2. Entra en la carpeta del proyecto
+cd vacaciones-fronted
+
+### 3. Instala las dependencias
+npm install
+```
+
+
+---
+
+
+## 🚀 Uso
+### Inicia la aplicación en modo desarrollo
+  npm run dev
+  Esto levantará un servidor local en Vite (por defecto en http://localhost:5173).
+
+### Abre tu navegador y visita:
+
+  http://localhost:5173
+
+---
+
+
+### ✨ Características
+
+🏠 Dashboard principal con días de vacaciones disponibles
+
+📅 Solicitud de días de vacaciones
+
+📊 Visualización del historial de vacaciones
+
+🔗 Consumo de la API REST desarrollada en el backend
+
+🌐 Navegación clara con React Router (si está implementado)
+
+🎨 Diseño moderno y responsivo
+
+---
+
+### 🛠️ Tecnologías
+
+React – Biblioteca UI
+
+Vite – Herramienta de construcción ultrarrápida 
+vite
+
+JavaScript
+
+entre otras...
+
+
+---
+
+### 📄 Licencia
+
+Este proyecto fue elaborado por el Ing. Evelio Escobar,
+todos los Derechos Reservados.
+
+
+📧 Contacto
+Evelio Escobar
+📩 evelio.villeda9@gmail.com
+
+### ¡Gracias por visitar este proyecto! 🚀
